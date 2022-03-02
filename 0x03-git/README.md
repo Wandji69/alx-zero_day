@@ -1,1 +1,1 @@
-The git directory
+The git directory for 0_day coding
